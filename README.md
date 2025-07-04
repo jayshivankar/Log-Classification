@@ -61,9 +61,3 @@ This project is a flexible and intelligent **log classification system** designe
 
 ---
 
-## ✍️ Author
-
-Developed by **Jay Shivankar**  
-[GitHub](https://github.com/jayshivankar)
-
-
